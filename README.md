@@ -1,2 +1,2 @@
 # Linuxadmin
-Repository for Linux docs
+Repository for Linux documents
